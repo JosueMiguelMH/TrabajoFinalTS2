@@ -1,0 +1,46 @@
+body{
+    background: #e8e8e8;
+}
+
+.contenedorImagen{
+    position: absolute;
+    left: 180px;
+    top: 100px;
+    padding: 350px 250px;
+    border: 1px solid black;
+}
+
+.posicionMenu{
+    border: 1px solid black;
+    position: relative;
+    padding: 10px 20px;
+    font-size: 20px;
+    top: 150px;
+    left: 950px;
+    text-align: center;
+}
+
+
+.posicionCursos{
+    border: 1px solid black;
+    position: relative;
+    padding: 10px 50px;
+    font-size: 20px;
+    top: 150px;
+    left: 1130px;
+    text-align: center;
+}
+
+.contenedorTexto{
+        position: relative;
+        padding: 10px;
+        width: 800px;
+        height: 350px;
+        top: 260px;
+        left: 800px;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}

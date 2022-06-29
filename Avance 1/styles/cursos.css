@@ -1,0 +1,75 @@
+body{
+    background: #e8e8e8;
+}
+div h1{
+    position: absolute;
+    margin: 50px;
+    left: 620px;
+    top: 100px;
+    font-family: Georgia;
+    text-align: center;
+    font-size: 55px;
+}
+
+
+.posicion1{
+    border: 1px solid black;
+    position: relative;
+    padding: 20px;
+    font-size: 20px;
+    top: 280px;
+    left: 650px;
+    text-align: center;
+}
+
+
+.posicion2{
+    border: 1px solid black;
+    position: relative;
+    padding: 20px 46px;
+    font-size: 20px;
+    top: 280px;
+    left: 850px;
+    text-align: center;
+}
+
+.contenedor{
+    position:relative;
+    height: 700px;
+    width: 900px;
+    margin: auto;
+    top: 350px;
+}
+
+
+.curso1{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+
+}
+
+.curso2{
+    position: relative;
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    left: 500px;
+    top: -302px;
+    
+}
+.curso3{
+    position: relative;
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    top: -204px;
+}
+.curso4{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    left: 500px;
+    top: -508px;
+    position: relative;
+}
